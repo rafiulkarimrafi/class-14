@@ -1,0 +1,26 @@
+body{ 
+    backgroun:whith ;
+    color: black;
+    
+
+}
+#home-section{
+    background:url(../img/img\ 333.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    min-height: 600px;
+    padding-top: 150px;
+   
+
+}
+
+
+.wish{
+        
+        box-shadow: 4px 5px 23px 12px;
+        border: 2px solid black;
+        padding: 15px;
+        border-radius: 20px;
+    
+}
